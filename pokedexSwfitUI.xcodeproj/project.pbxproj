@@ -15,6 +15,7 @@
 		3A540CD92601B11100E6D406 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A540CD72601B11100E6D406 /* LaunchScreen.storyboard */; };
 		3A540CE42601B11100E6D406 /* pokedexSwfitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A540CE32601B11100E6D406 /* pokedexSwfitUITests.swift */; };
 		3A540CEF2601B11100E6D406 /* pokedexSwfitUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A540CEE2601B11100E6D406 /* pokedexSwfitUIUITests.swift */; };
+		3A540D2D2602F05800E6D406 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A540D2C2602F05800E6D406 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3A540CEA2601B11100E6D406 /* pokedexSwfitUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pokedexSwfitUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A540CEE2601B11100E6D406 /* pokedexSwfitUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pokedexSwfitUIUITests.swift; sourceTree = "<group>"; };
 		3A540CF02601B11100E6D406 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A540D2C2602F05800E6D406 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3A540CCC2601B10D00E6D406 /* AppDelegate.swift */,
 				3A540CCE2601B10D00E6D406 /* SceneDelegate.swift */,
 				3A540CD02601B10D00E6D406 /* ContentView.swift */,
+				3A540D2C2602F05800E6D406 /* HomeView.swift */,
 				3A540CD22601B11100E6D406 /* Assets.xcassets */,
 				3A540CD72601B11100E6D406 /* LaunchScreen.storyboard */,
 				3A540CDA2601B11100E6D406 /* Info.plist */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A540CCD2601B10D00E6D406 /* AppDelegate.swift in Sources */,
+				3A540D2D2602F05800E6D406 /* HomeView.swift in Sources */,
 				3A540CCF2601B10D00E6D406 /* SceneDelegate.swift in Sources */,
 				3A540CD12601B10D00E6D406 /* ContentView.swift in Sources */,
 			);
